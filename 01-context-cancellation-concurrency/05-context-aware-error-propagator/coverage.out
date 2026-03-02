@@ -1,0 +1,19 @@
+mode: set
+context-aware-error-propagator/main.go:9.14,11.2 0 0
+context-aware-error-propagator/main.go:19.118,25.2 1 1
+context-aware-error-propagator/main.go:27.81,29.16 2 1
+context-aware-error-propagator/main.go:29.16,31.3 1 1
+context-aware-error-propagator/main.go:33.2,34.16 2 1
+context-aware-error-propagator/main.go:34.16,36.3 1 1
+context-aware-error-propagator/main.go:38.2,39.16 2 1
+context-aware-error-propagator/main.go:39.16,41.3 1 1
+context-aware-error-propagator/main.go:43.2,43.12 1 1
+context-aware-error-propagator/main.go:62.93,65.2 2 0
+context-aware-error-propagator/main.go:69.110,72.2 2 0
+context-aware-error-propagator/main.go:76.108,79.2 2 0
+context-aware-error-propagator/main.go:86.35,88.2 1 1
+context-aware-error-propagator/main.go:90.35,92.2 1 1
+context-aware-error-propagator/main.go:99.39,101.2 1 1
+context-aware-error-propagator/main.go:103.39,105.2 1 1
+context-aware-error-propagator/main.go:112.38,114.2 1 1
+context-aware-error-propagator/main.go:116.38,118.2 1 1
